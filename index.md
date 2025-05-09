@@ -1,3 +1,5 @@
+![Branching](https://thanson131313.github.io/lufbery/logo.png)
+
 [Updated Handicaps and Tags](./handicaps)
 
 <!---Text can be **bold**, _italic_, or ~~strikethrough~~.
